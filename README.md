@@ -1,12 +1,24 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Title: Responsive Digital Marketing Agency Website
+Tech Stack:
+Frontend: React.js, Bootstrap, CSS
 
-Currently, two official plugins are available:
+Design Libraries: React-Bootstrap, Bootstrap Icons
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Version Control: Git, GitHub
 
-## Expanding the ESLint configuration
+Project Overview:
+This project is a responsive and modern website built for a digital marketing agency named Positivus. It showcases core sections like About Us, Services, Work Process, and Testimonials, all styled with Bootstrap and optimized for mobile, tablet, and desktop devices.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Key Features:
+Responsive Navbar with links and a CTA button.
+Hero Section with branding and illustration.
+About Us Section describing the company's digital approach.
+Service Cards for SEO and Social Media Marketing.
+Work Process Accordion with 3 interactive steps (Research, Strategy, Execution).
+Client Testimonials in a carousel layout.
+Footer with quick links and branding.
+
+Purpose:
+This project demonstrates responsive web design skills and component-based development using React. It is ideal for showcasing frontend development abilities, especially for portfolios or agency website templates.
